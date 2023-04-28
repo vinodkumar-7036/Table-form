@@ -1,0 +1,37 @@
+.container {
+  width: 1000px;
+  align-content: center;
+  padding: 44px;
+
+  /* border: 1px solid beige; */
+}
+
+.field {
+  display: flex;
+  justify-content: center;
+}
+.field label {
+  width: 260px;
+}
+.field input {
+  width: 300px;
+}
+.form-label {
+  margin-bottom: 0.5rem;
+  width: 191px;
+}
+.raio_buttons {
+  display: flex;
+}
+.radio-container {
+  text-align: left;
+  position: relative;
+  right: 177px;
+}
+
+.table {
+  margin: 25px 50px;
+}
+button {
+  margin-right: 5px;
+}
